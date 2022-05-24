@@ -1,5 +1,5 @@
 {
-  "name": "ds-pkg",
+  "name": "davismiles-pkg",
   "version": "1.0.0",
   "description": "My First NPM Package",
   "main": "index.js",
